@@ -1,11 +1,11 @@
 # (Code challenge)
 
-#### Date, 2018/09/14
+#### Date, 2024/09/29
 
 #### By *Rohan Kibet Okech*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+This repository contains three different JavaScript programs: a Net Salary Calculator, a Grade Evaluation system, and a Speed Monitoring system. Each program serves a unique purpose in evaluating financials, academic performance, and driving behavior.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
