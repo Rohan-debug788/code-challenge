@@ -1,28 +1,33 @@
-# code-challenge 29/09/2024
-#### **By Rohan Kibet**
+# (Code challenge)
+
+#### Date, 2018/09/14
+
+#### By *Rohan Kibet Okech*
+
 ## Description
-The application includes a  landing page showing what i do, my education background, some of my projects and their links to my github  and my contact information.
+It's a webpage that shows different types of triangles and what they look like.
 
-## Setup/Installation Instruction
-* Download a zip in the code button to the desired folder
-* Extract the files
-* Open the extracted folder with VSCode
-* Go live or open the index.html file with chrome
-* And you are all done
+## Installation
+You use git clone to be able to download the documents in the GitHub
 
-## Live server
-* You can view the web live on [Portfolio](https://github.com/Rohan-debug788/portfolio.git)
+## Installation Requirements
+Git
 
-## Known Bugs
-The application works perfectly well, no bugs.
+### Installation instruction
+```
+Git clone https://github.com/Rohan-debug788/code-challenge.git
 
-## Technologies Used
-HTML, CSS , Fontawesome icons, GIT
+```
+
+# Live Link
+[Git](gh-pages link)
+
+## Technologies used
+Javascript
 
 ## Support and contact details
-email :: degaullerohan@gmail.com
+github.com/Rohan-debug788
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/Rohan-debug788/portfolio.git/master/LICENSE.md)*
-
-Copyright (c) 2024 **Rohan Kibet**
+The content of this site is licensed under the MIT license
+Copyright (c) 2018.
