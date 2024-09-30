@@ -15,9 +15,16 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/Rohan-debug788/code-challenge.git
+To run this project, you need to have Node.js installed on your machine. Follow these steps to get started:
 
-```
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Rohan-debug788/code-challenge.git
+   cd salary-calculator
+###Usage
+```paste the following link in your terminal
+node "/home/rohan/challenge/Net salary calculator.js"
 
 # Live Link
 [Git](gh-pages link)
